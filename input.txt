@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<recipes>
+   <recipe name="Eggs and Bacon">
+      <ingredient>Eggs</ingredient>
+      <ingredient>Bacon</ingredient>
+      <ingredient>Olive Oil</ingredient>
+      <instruction>Heat frying pan and place bacon</instruction>
+      <instruction>Crack eggs in bowl and scramble</instruction>
+      <instruction>After bacon is ready, pour eggs in pan and stir till done</instruction>
+   </recipe>
+   <recipe name="Breakfast Scramble">
+      <ingredient>Eggs</ingredient>
+      <ingredient>Bacon</ingredient>
+      <ingredient>Sausage</ingredient>
+      <ingredient>Green Pepper</ingredient>
+      <ingredient>Onion</ingredient>
+      <ingredient>Mushroom</ingredient>
+      <instruction>Heat frying pan and brown veggies and meat</instruction>
+      <instruction>Crack eggs in bowl and whisk</instruction>
+      <instruction>After ingredients are brown, pour eggs in pan and stir till done</instruction>
+   </recipe>
+   <recipe name="Turkey Sandwich">
+      <ingredient>Turkey</ingredient>
+      <ingredient>Bread</ingredient>
+      <ingredient>Cheese</ingredient>
+      <ingredient>Lettuce</ingredient>
+      <ingredient>Tomato</ingredient>
+      <ingredient>Mustard</ingredient>
+      <instruction>Ins1</instruction>
+      <instruction>Ins2</instruction>
+      <instruction>Ins3</instruction>
+      <instruction>Ins4</instruction>
+      <instruction>Ins5</instruction>
+   </recipe>
+   <recipe name="Kebab">
+      <ingredient>Chicken Breast</ingredient>
+      <ingredient>Olive Oil</ingredient>
+      <ingredient>Garlic</ingredient>
+      <ingredient>Black Pepper</ingredient>
+      <ingredient>Red Peppers</ingredient>
+      <ingredient>Green Onions</ingredient>
+      <instruction>Ins1</instruction>
+      <instruction>Ins2</instruction>
+      <instruction>Ins3</instruction>
+      <instruction>Ins4</instruction>
+      <instruction>Ins5</instruction>
+   </recipe>
+   <recipe name="Wonton Soup">
+      <ingredient>Bok Choy</ingredient>
+      <ingredient>Ground Pork</ingredient>
+      <ingredient>Sesame Oil</ingredient>
+      <ingredient>White Pepper</ingredient>
+      <ingredient>Soy Sauce</ingredient>
+      <instruction>Ins1</instruction>
+      <instruction>Ins2</instruction>
+      <instruction>Ins3</instruction>
+      <instruction>Ins4</instruction>
+      <instruction>Ins5</instruction>
+   </recipe>
+</recipes>
